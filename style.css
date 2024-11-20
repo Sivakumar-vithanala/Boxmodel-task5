@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 600px;
+    width: 500px;
+    border: 4px;
+    border-style: solid;
+}
+
+.header{
+    height: 100px;
+    width: 475px;
+    border: 2px;
+    border-style: solid;
+    margin: 10px;
+}
+
+.section1{
+    width: 50px;
+    height: 50px;
+    border: 2px;
+    border-style: solid;
+    margin: 20px;
+    border-radius: 50px;
+    display: inline-block;
+}
+.ham-section{
+    display: inline-block;
+    margin: 0px 0px 300px 300px;
+}
+
+.section5{
+    width: 400px;
+    height: 300px;
+    border: 2px solid;
+    margin: auto;
+    border-radius: 30px;
+    
+   
+}
+
+.section6{
+    width: 400px;
+    height: 80px;
+    border: 2px solid;
+    border-radius: 30px; 
+    margin: 50px;
+}
